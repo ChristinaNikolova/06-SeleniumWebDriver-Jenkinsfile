@@ -22,7 +22,6 @@ D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI a
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\Newtonsoft.Json.dll
-D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\NuGet.Frameworks.dll
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\nunit.framework.dll
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\WebDriver.Support.dll
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\WebDriver.dll
@@ -102,3 +101,8 @@ D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI a
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\obj\Debug\net6.0\TestProject2.pdb
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\obj\Debug\net6.0\TestProject2.genruntimeconfig.cache
 D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\obj\Debug\net6.0\ref\TestProject2.dll
+D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\obj\Debug\net6.0\TestProject2.sourcelink.json
+D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\nunit.framework.legacy.dll
+D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\System.Text.Json.dll
+D:\Development\SoftUni\Software Engineering and DevOps - September 2024\06. CI and CD with Jenkins - Ex\06-SeleniumWebDriver\TestProject2\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll

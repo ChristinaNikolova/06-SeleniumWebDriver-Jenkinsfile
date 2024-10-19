@@ -9,7 +9,7 @@ pipeline {
     stages {
         stage('Checkout the repo') {
             steps {
-                git branch: 'master', url: 'https://github.com/ChristinaNikolova/05-SeleniumIDE-Jenkinsfile' // Fixed 'brach' to 'branch'
+                git branch: 'master', url: 'https://github.com/ChristinaNikolova/06-SeleniumWebDriver-Jenkinsfile'
             }
         }
         stage('Install Chocolatey') {

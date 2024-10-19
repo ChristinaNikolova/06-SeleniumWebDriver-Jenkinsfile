@@ -75,10 +75,20 @@ pipeline {
                 bat 'dotnet build SeleniumBasicExercise.sln --configuration Release'
             }
         }
-        // stage('Run the tests') {
-        //     steps {
-        //         bat 'dotnet test SeleniumIde.sln'
-        //     }
-        // }
+        stage('Run tests for Project1') {
+            steps {
+                bat ' dotnet test TestProject1/TestProject1.csproj'
+            }
+        }
+        stage('Run tests for Project2') {
+            steps {
+                bat ' dotnet test TestProject2/TestProject2.csproj'
+            }
+        }
+        stage('Run tests for Project3') {
+            steps {
+                bat ' dotnet test TestProject3/TestProject3.csproj'
+            }
+        }
     }
 }
